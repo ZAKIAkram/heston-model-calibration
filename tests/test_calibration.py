@@ -1,6 +1,6 @@
 import numpy as np
 
-from src.heston_model.calibration import calibrate_heston
+from heston_model.calibration import calibrate_heston
 
 
 def test_calibrate_heston():

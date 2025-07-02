@@ -1,8 +1,8 @@
 import pytest
 import numpy as np
 
-from src.heston_model.simulate_monte_carlo import simulate_black_scholes_mc
-from src.heston_model.explicit_black_scholes import black_scholes_price
+from heston_model.simulate_monte_carlo import simulate_black_scholes_mc
+from heston_model.explicit_black_scholes import black_scholes_price
 
 
 
